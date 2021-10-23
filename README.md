@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoupyFry
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Visual Scripting,Coding
 - 🌱 I’m currently learning Html,Css
 - 📫 How to reach me soupyfry@gmail.com
 
